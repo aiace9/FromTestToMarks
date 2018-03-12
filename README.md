@@ -1,5 +1,6 @@
 # FromTestToMarks
 A simple jupyter-notebook that allow you to handle the result of a test for a class. From point per exercise to final mark.
+If latex is installed it can produce a report.
 
 # Implemented Formula
 ```math
